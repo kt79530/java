@@ -16,4 +16,7 @@ public class Intro_1{
         System.out.println(myChar);
         System.out.println(myB);
     }
+
 }
+
+//출력이 안될시 jdk11 이후 버젼으로 설치
